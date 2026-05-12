@@ -63,8 +63,23 @@ The dataset contains transactional records from a UK-based online retailer.
 - Daily sales analysis
 - Top-selling countries
 - Top-selling products
-- Distribution plots
-- Boxplots for outlier detection
+
+
+## Monthly Sales Trend
+
+![Monthly Sales](https://github.com/codingwithAItools/online-retail-eda/blob/main/images/monthly_sales_online_retail_eda.png)
+
+## Top Countries by Revenue
+
+![Top Countries](https://github.com/codingwithAItools/online-retail-eda/blob/main/images/top_10_countries_online_retail_eda.png)
+
+## Top Products
+
+![Top Products](https://github.com/codingwithAItools/online-retail-eda/blob/main/images/top_10_products_sold_online_retail_eda.png)
+
+## Top Selling Day
+
+![Top Selling Day](https://github.com/codingwithAItools/online-retail-eda/blob/main/images/sales_by_day_online_retail_eda.png)
 
 ---
 
